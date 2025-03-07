@@ -4,7 +4,7 @@ import dotenv from "dotenv";
 
 dotenv.config({ path: "./env" });
 
-const MONGODB_URL = ""
+const MONGODB_URL = "mongodb+srv://Lavvadnagara:LavBlue271@lav.hhnkzxi.mongodb.net"
 
 // const PORT = 5015
 
